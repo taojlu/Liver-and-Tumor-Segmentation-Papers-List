@@ -65,3 +65,16 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 - 2010 Liver segmentation based on deformable registration and multi-layer segmentation ([Hossein Badakhshannoory](https://ieeexplore.ieee.org/abstract/document/5653531))
 - 1999 Segmentation and analysis of liver cancer pathological color images based on artificial neural networks ([M. Sammouda](https://ieeexplore.ieee.org/abstract/document/817142))
 
+
+**IJCNN**
+- 2020 A New Three-stage Curriculum Learning Approach for Deep Network Based Liver Tumor Segmentation ([Huiyu Li](https://ieeexplore.ieee.org/abstract/document/9206789))
+
+
+**ICPR**
+- 2020 A Benchmark Dataset for Segmenting Liver, Vasculature and Lesions from Large-scale Computed Tomography Data ([Bo Wang](https://ieeexplore.ieee.org/abstract/document/9411991))
+- 2020 DARN: Deep Attentive Refinement Network for Liver Tumor Segmentation from 3D CT volume ([Yao Zhang](https://ieeexplore.ieee.org/abstract/document/9411976))
+- 2014 Automatic Liver Segmentation and Hepatic Fat Fraction Assessment in MRI ([Zhennan Yan](https://ieeexplore.ieee.org/abstract/document/6977277))
+- 2012 A New Convex Variational Model for Liver Segmentation ([Jialin Peng](https://ieeexplore.ieee.org/abstract/document/6460981))
+- 2010 Automatic Detection and Segmentation of Focal Liver Lesions in Contrast Enhanced CT Images ([Arne Militzer](https://ieeexplore.ieee.org/abstract/document/5595765))
+- 2002 Automatic segmentation of liver region through blood vessels on multi-phase CT ([T. Saitoh](https://ieeexplore.ieee.org/abstract/document/1044863))
+
