@@ -33,3 +33,7 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 - 2019 CU-Net: Cascaded U-Net Model for Automated Liver and Lesion Segmentation and Summarization ([Ahmed Awad Albishri](https://ieeexplore.ieee.org/abstract/document/8983266))
 - 2018 Automatic Liver Segmentation Using Multi-plane Integrated Fully Convolutional Neural Networks ([Chi Wang](https://ieeexplore.ieee.org/abstract/document/8621257))
 - 2014 Liver Segmentation Based on SKFCM and Improved GrowCut for CT Images ([Hong Song](https://ieeexplore.ieee.org/abstract/document/6999179))
+
+
+**Expert System with Application**
+-
