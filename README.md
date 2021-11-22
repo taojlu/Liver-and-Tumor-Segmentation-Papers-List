@@ -35,5 +35,13 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 - 2014 Liver Segmentation Based on SKFCM and Improved GrowCut for CT Images ([Hong Song](https://ieeexplore.ieee.org/abstract/document/6999179))
 
 
-**Expert System with Application**
--
+**Expert Systems with Applications**
+- 2021 An automatic method for segmentation of liver lesions in computed tomography images using deep neural networks ([Jos´e Denes Lima Araújo ](https://www.sciencedirect.com/science/article/pii/S0957417421005054))
+- 2021 Study on strategy of CT image sequence segmentation for liver and tumor based on U-Net and Bi-ConvLSTM ([Jing Li](https://www.sciencedirect.com/science/article/pii/S0957417421004498))
+- 2020 Bottleneck feature supervised U-Net for pixel-wise liver and tumor segmentation ([Song LI](https://www.sciencedirect.com/science/article/pii/S0957417419308486))
+- 2019 Liver CT sequence segmentation based with improved U-Net and graph cut ([Zhe Liu ](https://www.sciencedirect.com/science/article/pii/S095741741930065X))
+- 2012 A new unified level set method for semi-automatic liver tumor segmentation on contrast-enhanced CT images ([Bing Nan Li](https://www.sciencedirect.com/science/article/pii/S0957417412003399))
+
+
+**Expert Systems with Applications**
+
