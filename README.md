@@ -1,5 +1,6 @@
-# Liver-and-Tumor-Segmentation-Papers-List
+# Liver-and-Tumor-Segmentation-Papers-List  
 
+([]())
 
 Part One: Deep Learning in Medical Image Segmentation Survey
 
@@ -43,5 +44,24 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 - 2012 A new unified level set method for semi-automatic liver tumor segmentation on contrast-enhanced CT images ([Bing Nan Li](https://www.sciencedirect.com/science/article/pii/S0957417412003399))
 
 
-**Expert Systems with Applications**
+**ICASSP**
+- 2020 Lightweight V-Net for Liver Segmentation ([Tao Lei](https://ieeexplore.ieee.org/abstract/document/9053454))
+- 2017 Atlas based 3D liver segmentation using adaptive thresholding and superpixel approaches ([Negar Farzaneh](https://ieeexplore.ieee.org/abstract/document/7952325))
+- 2012 Liver segmentation using structured sparse representations ([Vimal Singh](https://www.researchgate.net/publication/261499548_Liver_segmentation_using_structured_sparse_representations))
+
+
+**ICCE**
+- 2021 Automatic Detection and Segmentation of Liver Tumors in Multi- phase CT Images by Phase Attention Mask R-CNN ([Ryo Hasegawa](https://ieeexplore.ieee.org/abstract/document/9427760))
+
+
+**ICIP**
+- 2020 Attention Unet++: A Nested Attention-Aware U-Net for Liver CT Image Segmentation ([Chen Li](https://ieeexplore.ieee.org/abstract/document/9190761))
+- 2019 Liver Vessels Segmentation Based on 3d Residual U-NET ([Wei Yu](https://ieeexplore.ieee.org/abstract/document/8802951))
+- 2018 Liver Segmentation in CT Images Using Three Dimensional to Two Dimensional Fully Convolutional Network ([Shima Rafiei](https://ieeexplore.ieee.org/abstract/document/8451238))
+- 2018 Automatic 3-D Skeleton-Based Segmentation of Liver Vessels from MRI and CT for Couinaud Representation ([Marie-Ange Lebre](https://ieeexplore.ieee.org/abstract/document/8451310))
+- 2015 Liver segmentation using superpixel-based graph cuts and restricted regions of shape constrains ([Titinunt Kitrungrotsakul](https://ieeexplore.ieee.org/abstract/document/7351428))
+- 2015 Segmentation of liver tumor via nonlocal active contours ([Bin Chen](https://ieeexplore.ieee.org/abstract/document/7351504))
+- 2010 Fully automated liver segmentation for low- and high- contrast CT volumes based on probabilistic atlases ([ChangYang Li](https://ieeexplore.ieee.org/abstract/document/5654434))
+- 2010 Liver segmentation based on deformable registration and multi-layer segmentation ([Hossein Badakhshannoory](https://ieeexplore.ieee.org/abstract/document/5653531))
+- 1999 Segmentation and analysis of liver cancer pathological color images based on artificial neural networks ([M. Sammouda](https://ieeexplore.ieee.org/abstract/document/817142))
 
