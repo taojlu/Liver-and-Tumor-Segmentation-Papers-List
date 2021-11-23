@@ -94,7 +94,7 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
  
  
  
- **Medical Image Analysis*
+ **Medical Image Analysis**
  - 2021 Weakly-Supervised teacher-Student network for liver tumor segmentation from non-enhanced images ([Dong Zhang](https://www.sciencedirect.com/science/article/pii/S1361841521000517))
  - 2021 Anatomy-guided multimodal registration by learning segmentation without ground truth: Application to intraprocedural CBCT/MR liver segmentation and registration ([Bo Zhou](https://www.sciencedirect.com/science/article/pii/S1361841521000876))
  - 2021 PAIP 2019: Liver cancer segmentation challenge ([Yoo Jung Kim](https://www.sciencedirect.com/science/article/pii/S1361841520302188))
