@@ -95,4 +95,12 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
  
  
  **Medical Image Analysis*
- - 
+ - 2021 Weakly-Supervised teacher-Student network for liver tumor segmentation from non-enhanced images ([Dong Zhang](https://www.sciencedirect.com/science/article/pii/S1361841521000517))
+ - 2021 Anatomy-guided multimodal registration by learning segmentation without ground truth: Application to intraprocedural CBCT/MR liver segmentation and registration ([Bo Zhou](https://www.sciencedirect.com/science/article/pii/S1361841521000876))
+ - 2021 PAIP 2019: Liver cancer segmentation challenge ([Yoo Jung Kim](https://www.sciencedirect.com/science/article/pii/S1361841520302188))
+ - 2017 Adaptive local window for level set segmentation of CT and MRI liver lesions ([Assaf Hoogi](https://www.sciencedirect.com/science/article/pii/S1361841517300105))
+ - 2014 A conditional statistical shape model with integrated error estimation of the conditions; Application to liver segmentation in non-contrast CT images ([Sho Tomoshige](https://www.sciencedirect.com/science/article/pii/S1361841513001473))
+ - 2012 Semi-automatic liver tumor segmentation with hidden Markov measure field model and non-parametric distribution estimation ([Yrjö Häme](https://www.sciencedirect.com/science/article/pii/S1361841511000934))
+ - 2010 Semi-automatic level set segmentation of liver tumors combining a spiral-scanning technique with supervised fuzzy pixel classification ([Dirk Smeets ](https://www.sciencedirect.com/science/article/pii/S136184150900084X))
+ - 2009 Automatic segmentation of the liver from multi- and single-phase contrast-enhanced CT images ([László Ruskó](https://www.sciencedirect.com/science/article/pii/S1361841509000644))
+
