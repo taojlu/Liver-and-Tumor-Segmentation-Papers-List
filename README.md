@@ -78,3 +78,21 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 - 2010 Automatic Detection and Segmentation of Focal Liver Lesions in Contrast Enhanced CT Images ([Arne Militzer](https://ieeexplore.ieee.org/abstract/document/5595765))
 - 2002 Automatic segmentation of liver region through blood vessels on multi-phase CT ([T. Saitoh](https://ieeexplore.ieee.org/abstract/document/1044863))
 
+
+**IEEE Transactions on Biomedical Engineering**
+- 2019 Discontinuity Preserving Liver MR Registration With Three-Dimensional Active Contour Motion Segmentation ([Dongxiao Li](https://ieeexplore.ieee.org/abstract/document/8531710))
+- 2017 Liver Segmentation on CT and MR Using Laplacian Mesh Optimization ([Gabriel Chartrand ](https://ieeexplore.ieee.org/abstract/document/7750642))
+- 2013 A Likelihood and Local Constraint Level Set Model for Liver Tumor Segmentation from CT Volumes ([Changyang Li](https://ieeexplore.ieee.org/abstract/document/6527955))
+- 2012 Modeling n-Furcated Liver vessels From a 3-D Segmented Volume Using Hole-Making and Subdivision Methods ([Feiniu Yuan](https://ieeexplore.ieee.org/abstract/document/6084729))
+- 2011 Segmentation of Liver Vasculature From Contrast Enhanced CT Images Using Context-Based Voting ([Yanling Chi](https://ieeexplore.ieee.org/abstract/document/5639035))
+- 2010 Liver Vessels Segmentation Using a Hybrid Geometrical Moments/Graph Cuts Method ([Simon Esneault](https://ieeexplore.ieee.org/abstract/document/5268216))
+- 2010 Automatic Liver Segmentation Using a Statistical Shape Model With Optimal Surface Detection ([Xing Zhang](https://ieeexplore.ieee.org/abstract/document/5504057))
+
+
+**IEEE Transactions on Medical Imaging**
+- 2020 Modified U-Net (mU-Net) With Incorporation of Object-Dependent High Level Features for Improved Liver and Liver-Tumor Segmentation in CT Images ([Hyunseok Seo](https://ieeexplore.ieee.org/abstract/document/8876857))
+ 
+ 
+ 
+ **Medical Image Analysis*
+ - 
