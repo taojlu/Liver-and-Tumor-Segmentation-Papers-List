@@ -104,3 +104,22 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
  - 2010 Semi-automatic level set segmentation of liver tumors combining a spiral-scanning technique with supervised fuzzy pixel classification ([Dirk Smeets ](https://www.sciencedirect.com/science/article/pii/S136184150900084X))
  - 2009 Automatic segmentation of the liver from multi- and single-phase contrast-enhanced CT images ([László Ruskó](https://www.sciencedirect.com/science/article/pii/S1361841509000644))
 
+
+ **MICCAI**
+ - 2020 Non-contrast CT Liver Segmentation Using CycleGAN Data Augmentation from Contrast Enhanced CT ([Chongchong Song](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_13))
+ - 2020 Unsupervised Wasserstein Distance Guided Domain Adaptation for 3D Multi-domain Liver Segmentation ([Chenyu You](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_17))
+ - 2020 User-Guided Domain Adaptation for Rapid Annotation from User Interactions: A Study on Pathological Liver Segmentation ([Ashwin Raju](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_45))
+ - 2020 Multimodal Priors Guided Segmentation of Liver Lesions in MRI Using Mutual Information Based Graph Co-Attention Networks ([Shaocong Mo](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_42))
+ - 2020 $E^2$ Net: An Edge Enhanced Network for Accurate Liver and Tumor Segmentation on CT Scans ([Youbao Tang](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_50))
+ - 2019 Automatic Couinaud Segmentation from CT Volumes on Liver Using GLC-UNet ([Jiang Tian](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_32))
+ - 2019 A Hybrid Multi-atrous and Multi-scale Network for Liver Lesion Detection ([Yanan Wei](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_42))
+ - 2019 Interactive 3D Segmentation Editing and Refinement via Gated Graph Neural Networks ([Xiaosong Wang](https://link.springer.com/chapter/10.1007/978-3-030-35817-4_2))
+ - 2019 Radiomics-guided GAN for Segmentation of Liver Tumor Without Contrast Agents ([Xiaojiao Xiao](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_27))
+ - 2019 Liver Segmentation in Magnetic Resonance Imaging via Mean Shape Fitting with Fully Convolutional Neural Networks ([Qi Zeng](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_28))
+ - 2019 Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation ([Junlin Yang](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_29))
+ - 2019 Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior ([Han Zheng](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_17))
+ - 2016 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes ([Qi Dou](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_18))
+ - 2016 Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields ([Patrick Ferdinand Christ](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_48))
+
+
+ **ISBI**
