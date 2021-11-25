@@ -1,6 +1,6 @@
 # Liver-and-Tumor-Segmentation-Papers-List  
 
-([]())
+
 
 Part One: Deep Learning in Medical Image Segmentation Survey
 
