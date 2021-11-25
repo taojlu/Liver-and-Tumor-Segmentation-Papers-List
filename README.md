@@ -123,3 +123,20 @@ Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Co
 
 
  **ISBI**
+ - 2021 Cooperating Networks To Enforce A Similarity Constraint In Paired But Unregistered Multimodal Liver Segmentation ([Vincent Couteaux](https://ieeexplore.ieee.org/abstract/document/9433767))
+ - 2021 Semantic Segmentation of Liver Tumor in Contrast-enhanced Hepatic CT by Using Deep Learning with Hessian-based Enhancer with Small Training Dataset Size ([Muneyuki Sato](https://ieeexplore.ieee.org/abstract/document/9433929))
+ - 2020 Deep Learning and Unsupervised Fuzzy C-Means Based Level-Set Segmentation for Liver Tumor ([Yue Zhang](https://ieeexplore.ieee.org/abstract/document/9098701))
+ - 2020 Liver Segmentation in CT with MRI Data: Zero-Shot Domain Adaptation by Contour Extraction and Shape Priors ([D. D. Pham](https://ieeexplore.ieee.org/abstract/document/9098615))
+ - 2020 Training Liver Vessel Segmentation Deep Neural Networks on Noisy Labels from Contrast CT Imaging ([Minfeng Xu](https://ieeexplore.ieee.org/abstract/document/9098509))
+ - 2020 Hybrid Cascaded Neural Network for Liver Lesion Segmentation ([Raunak Dey](https://ieeexplore.ieee.org/abstract/document/9098656))
+ - 2020 Liver Guided Pancreas Segmentation ([Yue Zhang](https://ieeexplore.ieee.org/abstract/document/9098388))
+ - 2020 Mask Mining for Improved Liver Lesion Segmentation ([Karsten Roth](https://ieeexplore.ieee.org/abstract/document/9098460))
+ - 2019 Liver Steatosis Segmentation With Deep Learning Methods ([Xiaoyuan Guo](https://ieeexplore.ieee.org/abstract/document/8759600))
+ - 2019 Feature Fusion Encoder Decoder Network for Automatic Liver Lesion Segmentation ([Xueying Chen](https://ieeexplore.ieee.org/abstract/document/8759555))
+ - 2018 Liver lesion segmentation informed by joint liver segmentation ([Eugene Vorontsov](https://ieeexplore.ieee.org/document/8363817))
+ - 2017 A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature ([Shenhai Zheng](https://ieeexplore.ieee.org/abstract/document/7950515))
+ - 2016 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans ([P.-H. Conze](https://ieeexplore.ieee.org/abstract/document/7493296))
+ - 2014 SEMI-automated liver CT segmentation using Laplacian meshes ([G. Chartrand](https://ieeexplore.ieee.org/abstract/document/6867952))
+ - 2009 3D segmentation of the liver using free-form deformation based on boosting and deformation gradients ([Hong Zhang](https://ieeexplore.ieee.org/abstract/document/5193092))
+ - 2008 Liver segmentation for hepatic lesions detection and characterisation ([C. Platero](https://ieeexplore.ieee.org/abstract/document/4540920))
+ - 2008 Vasculature segmentation of CT liver images using graph cuts and graph-based analysis ([Hanno Homann](https://ieeexplore.ieee.org/abstract/document/4540930))
